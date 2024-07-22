@@ -30,7 +30,7 @@ A continuación se explica el paso a paso del desarrollo de este proyecto.
    </p>
 2. **Analisis de Datos EDA:** Se realiza un análisis gráfico y de las características de los datos de los datasets.
    </p>
-:eyes:    El código de Python de limpiueza y análisis de datos corresponde al archivo **`Data Engineering.ipynb`**   :eyes:
+:eyes:    El código python de limpieza y análisis de datos corresponde al archivo **`Data Engineering.ipynb`**   :eyes:
 </p>
 3. 
 
