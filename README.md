@@ -32,10 +32,14 @@ A continuación se explica el paso a paso del desarrollo de este proyecto.
    </p>
 :eyes:    El código python de limpieza y análisis de datos corresponde al archivo **`Data Engineering.ipynb`**   :eyes:
 </p>
+Se exportan los datasets resultantes en formato .json y .parquet con en fin de evaluar posteriormente el mejor formato de trabajo.
 Los archivos resultantes son:
 
-   **`data_movies.json`**
+**`data_movies.json`**
 **`data_credits.json`**
+**`data_movies.parquet`**
+**`data_credits.parquet`**
+
 
 3. 
 
