@@ -32,6 +32,11 @@ A continuación se explica el paso a paso del desarrollo de este proyecto.
    </p>
 :eyes:    El código python de limpieza y análisis de datos corresponde al archivo **`Data Engineering.ipynb`**   :eyes:
 </p>
+Los archivos resultantes son:
+
+   **`data_movies.json`**
+**`data_credits.json`**
+
 3. 
 
 5. 
