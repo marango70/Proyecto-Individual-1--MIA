@@ -1,5 +1,6 @@
 # Proyecto Individual 1
 Henry DataPT9 
+</p>
 Maria Isabel Arango
 
 ## **Descripción del Proyecto**
@@ -29,7 +30,9 @@ A continuación se explica el paso a paso del desarrollo de este proyecto.
    </p>
 2. **Analisis de Datos EDA:** Se realiza un análisis gráfico y de las características de los datos de los datasets.
    </p>
-4. 
+:eyes:    El código de Python de limpiueza y análisis de datos corresponde al archivo **`Data Engineering.ipynb`**   :eyes:
+</p>
+3. 
 
 5. 
  :smirk:
